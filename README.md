@@ -67,3 +67,15 @@ pip install -r requirements.txt
 **Model Download:**
 - Requires stable internet for initial ~4GB download
 - Model cached locally after first download
+
+## Contributing
+
+PRs welcome.
+
+## License
+
+MIT
+
+---
+
+Built by Armando Diaz Silverio
